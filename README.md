@@ -13,7 +13,7 @@ You will need to change config.json to suit AND may need to manually create the 
 
 ### Bot setup
 A discord bot can be created here: https://discord.com/developers
-This will create the bot token
+-This will create the bot token
 
 Invite your bot to the discord with permissions from here: https://discordapi.com/permissions.html
 
