@@ -9,6 +9,6 @@ Once the repo is cloned, in the same directory as packages.json run **npm instal
 After this step running the main.js will start up the bot!!
 
 ### Note:
--You will need to change config.json to suit 
--May need to manually create the input role for the target discord
--
+You will need to change config.json to suit 
+May need to manually create the input role for the target discord
+
