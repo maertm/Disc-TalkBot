@@ -10,4 +10,4 @@ After this step running the main.js will start up the bot!!
 
 ### Note:
 You will need to change config.json to suit. 
-May need to manually create the input role for the target discord
+May need to manually create the input role for the target discord.
