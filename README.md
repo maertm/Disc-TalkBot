@@ -1,5 +1,5 @@
 # Disc-TalkBot
-MY FIRST PROJECT
+MY FIRST PROJECT.
 In a nutshell, this bot will talk OVER 'marked' people in discord. Inspired by Andi.
 
 ## READ FOR SETUP
